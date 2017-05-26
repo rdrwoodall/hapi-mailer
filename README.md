@@ -1,5 +1,7 @@
 # Hapi Mailer
 
+**This is a fork of [@nesive/hapi-mail](https://github.com/trippnology/hapi-mailer) that was created after the original package was pulled. This package has been renamed to `@trippnology/hapi-mailer` and the version reset to `1.0.0` to avoid conflicts.**
+
 [![npm](https://img.shields.io/npm/v/@nesive/hapi-mailer.svg)](https://www.npmjs.com/package/@nesive/hapi-mailer)
 [![Build Status](https://travis-ci.org/nesive/hapi-mailer.svg?branch=master)](https://travis-ci.org/nesive/hapi-mailer)
 [![Dependency Status](https://david-dm.org/nesive/hapi-mailer.svg)](https://david-dm.org/nesive/hapi-mailer)
@@ -9,7 +11,7 @@ A wrapper around Nodemailer used for sending email. It can be used with or witho
 ## Installation
 
 ```
-npm install --save @nesive/hapi-mailer
+npm install --save @trippnology/hapi-mailer
 ```
 
 ## Usage
@@ -31,7 +33,7 @@ const Path = require('path');
 const Vision = require('vision');
 
 const HapiMailer = {
-  register: require('@nesive/hapi-mailer'),
+  register: require('@trippnology/hapi-mailer'),
   options: {
     transport: {
       service: 'Gmail',
