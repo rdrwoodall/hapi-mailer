@@ -122,5 +122,5 @@
   "scripts": {
     "test": "lab --assert code --lint --threshold 100 --verbose"
   },
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
