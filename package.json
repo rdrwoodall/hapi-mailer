@@ -78,7 +78,7 @@
     "url": "https://github.com/trippnology/hapi-mailer/issues"
   },
   "dependencies": {
-    "hoek": "3.0.x",
+    "hoek": "5.0.3",
     "items": "2.0.x",
     "joi": "7.0.x",
     "juice": "1.7.x",
