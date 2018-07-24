@@ -78,7 +78,7 @@
     "url": "https://github.com/trippnology/hapi-mailer/issues"
   },
   "dependencies": {
-    "hoek": "3.0.x",
+    "hoek": "5.0.3",
     "items": "2.0.x",
     "joi": "7.0.x",
     "juice": "1.7.x",
@@ -87,7 +87,6 @@
   },
   "description": "Mailer plugin for hapi.",
   "devDependencies": {
-    "@nesive/eslint-config": "1.x.x",
     "code": "2.0.x",
     "handlebars": "4.0.x",
     "hapi": "11.1.x",
@@ -122,5 +121,5 @@
   "scripts": {
     "test": "lab --assert code --lint --threshold 100 --verbose"
   },
-  "version": "1.0.0"
+  "version": "0.1.1"
 }
