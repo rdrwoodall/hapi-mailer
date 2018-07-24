@@ -87,7 +87,6 @@
   },
   "description": "Mailer plugin for hapi.",
   "devDependencies": {
-    "@nesive/eslint-config": "1.x.x",
     "code": "2.0.x",
     "handlebars": "4.0.x",
     "hapi": "11.1.x",
