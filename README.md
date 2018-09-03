@@ -1,17 +1,15 @@
 # Hapi Mailer
 
-**This is a fork of [@nesive/hapi-mail](https://github.com/trippnology/hapi-mailer) that was created after the original package was pulled. This package has been renamed to `@trippnology/hapi-mailer` and the version reset to `1.0.0` to avoid conflicts.**
+`This package has only been revived for demonstration of an older system. There are no plans to modify this package unless necessary for the demonstration. Please do not submit issues/pull requests.`
 
-[![npm](https://img.shields.io/npm/v/@nesive/hapi-mailer.svg)](https://www.npmjs.com/package/@nesive/hapi-mailer)
-[![Build Status](https://travis-ci.org/nesive/hapi-mailer.svg?branch=master)](https://travis-ci.org/nesive/hapi-mailer)
-[![Dependency Status](https://david-dm.org/nesive/hapi-mailer.svg)](https://david-dm.org/nesive/hapi-mailer)
+**This is a fork of [@trippnology/hapi-mail](https://github.com/trippnology/hapi-mailer) that was created after the original package [@nesive/hapi-mail](#) was pulled. This package has been renamed to `@rdrwoodall/hapi-mailer` and the version reset to `1.0.0` to avoid conflicts.**
 
 A wrapper around Nodemailer used for sending email. It can be used with or without a template engine.
 
 ## Installation
 
 ```
-npm install --save @trippnology/hapi-mailer
+npm install --save @rdrwoodall/hapi-mailer
 ```
 
 ## Usage
